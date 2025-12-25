@@ -73,6 +73,6 @@ typora-root-url: ../public
 
 准备好了吗？
 
-让我们从[课程概念定义](/Advanced/00-bootcamp/0.0-course-intro/)开始，正式踏上 Vibe Coding 全栈开发的学习之旅！
+让我们从[课程概念定义](/Advanced-old/00-bootcamp/0.0-course-intro/)开始，正式踏上 Vibe Coding 全栈开发的学习之旅！
 
 记住：**你已经走过了最难的部分**——相信自己能做出东西。接下来，只是让你做得更专业。
